@@ -1,0 +1,7 @@
+{
+  "name": "bscs3b_kunlun",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
